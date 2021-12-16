@@ -1,4 +1,4 @@
-# 0x03. Git
+# 0x00. Zero-day
 <div style="text-align: justify">
 
 Thank you for visiting this repository which contain our work to start learning Git. This is my first repository as a full-stack engineer.
